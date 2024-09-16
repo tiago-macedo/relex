@@ -1,4 +1,4 @@
-module Rlex
+module Relex
   # Simple class to represent tokens matched from the input.
   #
   # @author Rasmus Borgsmidt <rasmus@borgsmidt.dk>

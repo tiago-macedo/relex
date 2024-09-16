@@ -1,7 +1,7 @@
 require 'strscan'
-require 'rlex/token'
+require 'relex/token'
 
-module Rlex
+module Relex
   # Implements a simple lexer using a <tt>StringScanner</tt>.
   #
   # The lexer was written for use with Racc, a Ruby variant of
